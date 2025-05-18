@@ -15,6 +15,11 @@ public class MainMenu : MonoBehaviour
         SceneManager.LoadScene("Creditos");
     }
 
+    public void Controles()
+    {
+        SceneManager.LoadScene("Controles");
+    }
+
     public void LVL1()
     {
         SceneManager.LoadScene("LVL1");

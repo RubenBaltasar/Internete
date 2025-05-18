@@ -5842,6 +5842,10 @@ PrefabInstance:
       propertyPath: m_SortingOrder
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4912088228004849736, guid: 548d8e763afdcc04295fece6f6219651, type: 3}
+      propertyPath: tiempoinvencible
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5414862168699241755, guid: 548d8e763afdcc04295fece6f6219651, type: 3}
       propertyPath: m_Name
       value: Player
